@@ -1,4 +1,4 @@
-# Information-Retriveal-system
+# Information-Retrieval-system
 Programming Language: Python 3.9.7
 Environment: Anaconda 4.11.0
 
